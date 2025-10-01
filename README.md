@@ -51,10 +51,11 @@ cd tetris
 - Use CMake to generate the build system for your platform (Linux, Windows, etc.):
 - ```bash
   cmake ..
-```
+  ```
+  
 - Compile the project using the generated build system:
 ```bash
-  cmake --build .
+cmake --build .
 ```
 
 
